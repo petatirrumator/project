@@ -1,5 +1,5 @@
 # project
-
+this is the same example: https://github.com/raysan5/raylib/blob/master/examples/textures/textures_sprite_anim.c
 For Visual Studio Code:
 First get the gcc compiler using https://github.com/skeeto/w64devkit/releases/tag/v2.3.0
 Get the exe and extract that someplace like program files
